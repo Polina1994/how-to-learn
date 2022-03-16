@@ -144,6 +144,7 @@
   margin-bottom: 100px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 .table__cell {
   width: 250px;
@@ -219,7 +220,7 @@
   z-index: 0;
   background-color: #1f1f1f;
   color: white;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
   background-position: right -210px top 0;
   background-size: 877px;
