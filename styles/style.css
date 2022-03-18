@@ -284,19 +284,14 @@
   width: 90%;
   margin: 60px auto 40px;
   display: flex;
+  justify-content: space-between;
+}
+.footer__column {
+  display: flex;
+  flex-direction: column;
 }
 .footer__column_content_copyright {
-  display: flex;
-  flex-direction: column;
   justify-content: space-between;
-  flex-basis: 711px;
-}
-.footer__column_display-flex {
-  display: flex;
-  flex-direction: column;
-}
-.footer__column_flex-basis {
-  display: flex;
   flex-basis: 711px;
 }
 .footer__column_content_info {
@@ -328,7 +323,6 @@
 .footer__column-links {
   list-style-type: none;
   color: white;
-  
 }
 .footer__column-link {
   line-height: 30px;
