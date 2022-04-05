@@ -1,4 +1,3 @@
-
 .header__square-pic {
   width: 568px;
   height: 568px;
@@ -8,7 +7,6 @@
   top: 64px;
   z-index: 1;
   overflow: hidden;
-  animation: rotation 20s infinite linear;
   object-fit: cover;
   object-position: bottom;
 }
