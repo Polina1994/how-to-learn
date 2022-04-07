@@ -7,6 +7,4 @@
   top: 64px;
   z-index: 1;
   overflow: hidden;
-  object-fit: cover;
-  object-position: bottom;
 }
