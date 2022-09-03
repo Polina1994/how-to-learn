@@ -1,2 +1,2 @@
-## How to learn ##
+# How to learn #
 
