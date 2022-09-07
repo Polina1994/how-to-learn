@@ -1,22 +1,22 @@
 # How to learn
 
-* Учебный проект, выполненный в рамках учебы в Яндекс.Практикум по специальности web-разработчик. Основная задача проекта - реализовать на практике полученные знание по web-разработке, в частности работа с HTML, CSS, анимацией, использование встраиваемых элементов и методологии БЭМ.
+* A training project completed as part of a course at Yandex.Practicum as a web developer. The main objective of the project is to put into practice the acquired knowledge of web development, in particular, working with HTML, CSS, animation, using embedded elements and BEM methodology.
 
-Проект представляет собой одностраничный web-сайт, посвященный вопросам повышения эффективности процесса обучения.
+The project is a one-page website dedicated to improving the effectiveness of the learning process.
 
-## Функциональность проекта
+## Project functionality
 
-* Проект предоставляет пользователью доступ к разным типам информации, посвященной повышению эффективности обучения: текстовые статьи, инфографика, видео материалы, ссылки на полезные ресурсы.
+* The project provides the user with access to various types of information dedicated to improving the effectiveness of learning: text articles, infographics, video materials, links to useful resources.
 
-## Технологический стек
+## Technology stack
 
-* При создании проекта использовался следующий стек технологий: HTML, CSS.
+* When creating the project, the following technology stack was used: HTML, CSS.
   
-При стилизации использовалась БЭМ-методология, анимация, работа с видео.
+Styling used BEM methodology, animation, work with video.
 
-## Ссылка на проект
+## Project link
 
-* Познакомиться с проектом можно по [ссылке] (https://polina1994.github.io/how-to-learn/)
+* The project can be viewed at [link] (https://polina1994.github.io/how-to-learn/)
 
 
 
